@@ -6,12 +6,10 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/bikolite/bikolite/raw/main/output-onlinegiftools.gif">
 
 ### 💫 About Me:
-**Welcome to our GitHub!**
+**Welcome to our GitHub!** <br>
 We are passionate Web & Software Developers focused on building modern, responsive, and user-friendly digital solutions.
 - **Our specialties:**
-  - Website Design & Development
-  - Frontend & Backend Development
-  - Responsive Website Development
+  - Responsive Website Design & Development
   - Custom Web Applications
   - Mobile App Development
   - Bug Fixing & Website Optimization
