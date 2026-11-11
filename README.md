@@ -1,5 +1,5 @@
 <h1 align="center">Hey Everyone 👋</h1>
-<div align="center"> <img src="[https://github.com/teamcodding/teamcodding/blob/db09b9a9be681d0b0b562d99f89da590735a19f3/886060844_122149589055352527_514682061402304427_n.png]"> </div>
+<div align="center"> <img src="https://github.com/teamcodding/teamcodding/blob/db09b9a9be681d0b0b562d99f89da590735a19f3/886060844_122149589055352527_514682061402304427_n.png"> </div>
 <!-- <h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT Sector and in my free time I make YouTube videos at https://www.youtube.com/@devopsshack</h3> -->
 <img align="right" alt="Coding" width="400" src="https://github.com/bikolite/bikolite/blob/main/output-onlinegiftools.gif">
 
